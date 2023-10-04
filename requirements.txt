@@ -1,0 +1,7 @@
+torch==1.13.1
+torchdata==0.5.1
+transformers==4.27.2
+datasets==2.11.0
+jupyter==7.0.4
+numpy==1.24.3
+pandas==1.5.3
